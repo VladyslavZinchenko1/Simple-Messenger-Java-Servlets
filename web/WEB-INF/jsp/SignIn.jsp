@@ -14,7 +14,7 @@
   </head>
   <body>
   <div class="block">
-  <form method="post" id="form" action="SignIn">
+  <form method="post" id="form" action="SignIn"> 
     <!--
     <label for="username">Введите логин
   </label>
